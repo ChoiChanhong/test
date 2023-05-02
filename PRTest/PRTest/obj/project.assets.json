@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PNE\\Desktop\\dd\\test\\PRTest\\PRTest\\PRTest.csproj",
+      "projectUniqueName": "C:\\Users\\PNE\\Desktop\\dd\\forkTest\\test\\PRTest\\PRTest\\PRTest.csproj",
       "projectName": "PRTest",
-      "projectPath": "C:\\Users\\PNE\\Desktop\\dd\\test\\PRTest\\PRTest\\PRTest.csproj",
+      "projectPath": "C:\\Users\\PNE\\Desktop\\dd\\forkTest\\test\\PRTest\\PRTest\\PRTest.csproj",
       "packagesPath": "C:\\Users\\PNE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PNE\\Desktop\\dd\\test\\PRTest\\PRTest\\obj\\",
+      "outputPath": "C:\\Users\\PNE\\Desktop\\dd\\forkTest\\test\\PRTest\\PRTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PNE\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -23,6 +23,9 @@ namespace PRTest
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine("pull");
+            Console.WriteLine("request");
         }
     }
 }
