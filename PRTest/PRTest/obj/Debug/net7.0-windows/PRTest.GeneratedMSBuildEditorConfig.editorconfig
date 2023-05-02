@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PRTest
-build_property.ProjectDir = C:\Users\PNE\Desktop\dd\test\PRTest\PRTest\
+build_property.ProjectDir = C:\Users\PNE\Desktop\dd\forkTest\test\PRTest\PRTest\
